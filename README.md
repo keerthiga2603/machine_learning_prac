@@ -1,0 +1,1 @@
+A machine learning code that predicts the availability of accomodation using supervised and unsupervised learning algorithms in both classical and quantum approach. First ever model that is trained on both supervised and unsupervised algorithm using classical and quantum approach for same dataset.
